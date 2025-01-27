@@ -1,1 +1,1 @@
-There  are not a single repo on github now !!
+There is not a single repo on github now !!
